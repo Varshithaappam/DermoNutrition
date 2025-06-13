@@ -1,4 +1,4 @@
-DermoNutrition
+![Screenshot 2025-06-13 121156](https://github.com/user-attachments/assets/3178c18b-3253-4aea-9a95-c7462bf95045)DermoNutrition
 
 DermoNutrition is a skin disease detection system using a Convolutional Neural Network (CNN) model. After predicting the skin disease from an uploaded image, the app also recommends food to eat and avoid based on the diagnosis.
 
@@ -28,3 +28,10 @@ python main.py
 
 
 3. Open http://localhost:5000 in your browser.
+
+Output
+![Screenshot 2025-06-13 121133](https://github.com/user-attachments/assets/28647442-3339-4693-b3bf-98fea6dea2ac)
+![Screenshot 2025-06-13 121156](https://github.com/user-attachments/assets/ef255825-b88b-4e10-b388-52701af86481)
+![Screenshot 2025-06-13 121209](https://github.com/user-attachments/assets/34d0f96f-1051-4478-9755-1bb16dc250be)
+
+
